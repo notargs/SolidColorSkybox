@@ -1,0 +1,11 @@
+{
+  "name": "notargs.solidcolorskybox",
+  "displayName": "Solid Color Skybox",
+  "version": "0.0.1",
+  "unity": "2018.3",
+  "description": "Simple sky-box shader.",
+  "keywords": ["Skybox"],
+  "category": "Skybox",
+  "dependencies": {
+  }
+}
