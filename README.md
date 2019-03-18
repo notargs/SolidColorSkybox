@@ -1,6 +1,10 @@
 # SolidColorSkybox
 Simple solid color skybox.
 
+## How to use
+Write manifest.json 
+`"notargs.solidcolorskybox": "https://github.com/notargs/SolidColorSkybox.git"`
+
 ## License
 
 Copyright 2019 notargs
